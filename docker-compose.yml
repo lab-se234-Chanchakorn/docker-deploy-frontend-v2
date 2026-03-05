@@ -1,6 +1,6 @@
 services:
   frontend:
-    image: wasun/deploylab-frontend:latest
+    image: wasun/234-deploylab-frontend:latest
     pull_policy: always
     ports:
     - "8081:80"
