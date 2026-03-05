@@ -4,4 +4,4 @@ services:
     pull_policy: always
     ports:
     - "8081:80"
-  restart: unless-stopped
+    restart: unless-stopped
